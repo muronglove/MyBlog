@@ -2,7 +2,7 @@ VSCode无法安装PyLint解决方案
 ==
 1.问题描述
 --
-使用VSCode敲完**python**之后保存，会出现安装**pylint**（一个对python检查插件）的提示，但是点击安装后发现无法安装
+使用VSCode敲完**python**之后保存，会出现安装**pylint**（一个python检查插件）的提示，但是点击安装后发现无法安装
 
 2.问题解决
 ---
